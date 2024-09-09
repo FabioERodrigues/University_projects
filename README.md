@@ -25,6 +25,15 @@ Gained experience in Java concepts such as inheritance, abstract classes, and GU
 Identified improvement areas, including better planning, more concise code, and additional features like keyboard-controlled PacMan and improved beam robot behavior​
 
 3. Python Data science 82/100
+ 
+•Project Overview:
+The project analyzes FTSE 100 Index trends from 2009 to 2023, focusing on key stock data like opening and closing prices, as well as high and low prices.
 
+•Key Functionalities:
+Data Visualization: Includes features like scatter plots, heatmaps, and stock price plotting using Python scripts and libraries.
+Statistical Analysis: Implements train-test splits and evaluation models to understand stock market behavior over time.
+
+•Learnings:
+Gained hands-on experience in data science, stock market analysis, and visualization techniques using Python, along with an understanding of market trends and fluctuations over the years. The project uses machine learning techniques, particularly focusing on regression models for predicting stock prices based on the FTSE 100 Index data.
 
 
