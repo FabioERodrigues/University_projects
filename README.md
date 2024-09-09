@@ -15,8 +15,10 @@ Email: faboorod2@gmail.com
 
 • Project Overview: A Java-based robot arena simulation, featuring various types of robots (e.g., PacMan, WhiskerRobot, BeamRobot) and interactive items like obstacles and a controllable PacMan robot.
 Key Functionalities:
+
 • OOP Design: Implemented class hierarchy with inheritance, abstract methods, and encapsulation for robots and arena items.
               User Interaction: Control over simulation through mouse events, ability to move and delete items, and features like slow motion and saving progress.
+              
 •Learnings: Gained experience in Java concepts such as inheritance, abstract classes, and GUI development.
             Identified improvement areas, including better planning, more concise code, and additional features like keyboard-controlled PacMan and improved beam robot behavior​
 
